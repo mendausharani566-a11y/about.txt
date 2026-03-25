@@ -1,0 +1,3 @@
+Name: Usharani Menda
+Course: B.Sc Computer Science (Cloud Computing)
+What I learned about GitHub: GitHub is a platform to store, manage, and share code using version control, and it helps in collaboration with others.
